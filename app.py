@@ -54,7 +54,7 @@ def main():
       st.success('Model has predicted {}'.format(result))
     if st.button("About"):
       st.subheader("Developed by Rameshber Goswami")
-      st.subheader("Head , Department of Computer Engineering")
+      st.subheader("Intern, Summer Training In ML & DS(PIET) ")
 
 if __name__=='__main__':
   main()
